@@ -16,9 +16,9 @@ Current API Documents:
 
 # Installation
 ```
-go get github.com/awa/go-iap/appstore
-go get github.com/awa/go-iap/playstore
-go get github.com/awa/go-iap/amazon
+go get github.com/smovipo/go-iap/appstore
+go get github.com/smovipo/go-iap/playstore
+go get github.com/smovipo/go-iap/amazon
 ```
 
 
